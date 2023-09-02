@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\images\\372c1cc1-91b0-41d2-951f-b3f19e1c2bc0.png",
+      "PackagePath": "staticwebassets\\images\\372c1cc1-91b0-41d2-951f-b3f19e1c2bc0.png"
+    },
+    {
+      "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\images\\60488a1b-8c67-44a3-94c4-b6dc33e7a6e1.png",
+      "PackagePath": "staticwebassets\\images\\60488a1b-8c67-44a3-94c4-b6dc33e7a6e1.png"
+    },
+    {
+      "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\images\\User-1001.png",
+      "PackagePath": "staticwebassets\\images\\User-1001.png"
+    },
+    {
+      "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\images\\User-1002.png",
+      "PackagePath": "staticwebassets\\images\\User-1002.png"
+    },
+    {
+      "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\images\\User-1003.png",
+      "PackagePath": "staticwebassets\\images\\User-1003.png"
+    },
+    {
+      "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\images\\User-Defult.png",
+      "PackagePath": "staticwebassets\\images\\User-Defult.png"
+    },
+    {
       "Id": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
