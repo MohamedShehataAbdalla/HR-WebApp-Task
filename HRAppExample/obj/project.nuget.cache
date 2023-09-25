@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AcZCgyyRhkjkM43W1z2aSD+SzseRVJPMaMrDcN6Qd8eAY8bjBIW1Zm/zv7Vq1bkodUXDwZSFebgUOXuBiY70Sg==",
+  "dgSpecHash": "VnZSrqphJ7A7mVyyFaE8gLLaOVHh42ZzY+ElI9Jw/tnAAHjWxCjIdaM+rZKjdbwRkQQpmzJBbm/rfzfb6NcoSg==",
   "success": true,
-  "projectFilePath": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\HRAppExample.csproj",
+  "projectFilePath": "E:\\Projects\\Fast_Projects\\Web_Appliactions\\HR-WebApp-Task\\HRAppExample\\HRAppExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPTOP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\LAPTOP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

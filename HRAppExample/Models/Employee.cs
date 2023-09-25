@@ -91,6 +91,7 @@ namespace HRAppExample.Models
         [MinLength(14)]
         public string NationalId { get; set; } = String.Empty;
 
+        [Display(Name = "Department")]
         public int DepartmentId { get; set; }
 
         [ForeignKey("DepartmentId")]

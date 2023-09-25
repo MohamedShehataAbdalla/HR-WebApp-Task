@@ -11183,11 +11183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\HRAppExample.csproj",
+      "projectUniqueName": "E:\\Projects\\Fast_Projects\\Web_Appliactions\\HR-WebApp-Task\\HRAppExample\\HRAppExample.csproj",
       "projectName": "HRAppExample",
-      "projectPath": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\HRAppExample.csproj",
+      "projectPath": "E:\\Projects\\Fast_Projects\\Web_Appliactions\\HR-WebApp-Task\\HRAppExample\\HRAppExample.csproj",
       "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "E:\\Workout_Languages\\Asp.net2023\\HRAppExample\\HRAppExample\\obj\\",
+      "outputPath": "E:\\Projects\\Fast_Projects\\Web_Appliactions\\HR-WebApp-Task\\HRAppExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11260,7 +11260,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
